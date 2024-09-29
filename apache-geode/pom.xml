@@ -40,7 +40,7 @@
     </build>
 	
     <properties>
-        <geode.core>1.6.0</geode.core>
+        <geode.core>1.15.1</geode.core>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
